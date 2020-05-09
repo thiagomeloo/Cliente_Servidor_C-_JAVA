@@ -1,4 +1,4 @@
-# Cliente_Servidor_C-_JAVA
+# Cliente_Servidor_Duas_Linguagens JAVA e C#
 conexão cliente e servidor utilizando socket em duas diferentes linguagens.
 
 ## Contem
